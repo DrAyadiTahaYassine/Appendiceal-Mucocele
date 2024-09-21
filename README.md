@@ -1,2 +1,7 @@
-# Appendiceal-Mucocele
-Imaging and Surgical Management of Non Ruptured Appendiceal Mucocele
+# Imaging and Surgical Management of Non Ruptured Appendiceal Mucocele
+Introduction: Appendiceal mucocele is a rare pathology, with an incidence ranging between 0.2% and 0.7% of appendectomy specimens. Its prognosis is determined by its histopathological type and surgical treatment. The aim of our study was to analyze the radiological features associated with the diagnosis of non-ruptured appendiceal mucocele, as well as those that could predict malignancy, in order to optimize management.
+Methodology: We conducted a bicentric, cross-sectional, descriptive observational study. Data collection was longitudinal retrospective over 10 years, from January 2010 to December 2019. We included patients presenting with an unruptured appendicular mucocele, confirmed by anatomopathological examination of the surgical specimen. Ruptured appendicular mucoceles were not included. Patients whose records were unusable were excluded.
+Results: A total of 31 patients were included. Right iliac fossa pain was the main reason for consultation (51%). The diagnosis was suggested preoperatively by CT scan in 61% of cases. Radiological signs predictive of malignancy included an appendiceal diameter greater than 20 mm, mural calcifications, nodules in the appendiceal wall, and wall irregularity. Appendectomy was performed in 22 patients. Two patients underwent ileocecal resection. Right hemicolectomy was performed in 7 patients.
+Conclusion: Appendiceal mucocele can be benign or malignant. Imaging plays a crucial role in diagnosis and assessment of malignancy risk. These elements are essential for guiding surgical strategy.
+
+
